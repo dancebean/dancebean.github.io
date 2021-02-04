@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Da Ma</h1>
-<p></p>
-</body>
-</html>
+Da Ma
 
 # Project Lists
 ## [MBMA](http://dancebean.github.io/mouse-brain-atlas)
